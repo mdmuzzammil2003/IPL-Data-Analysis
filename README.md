@@ -28,6 +28,10 @@ This project explores team performance, city-wise hosting stats, season trends a
 - 📅 2013 season had the highest number of matches ever
 - 🎲 Mumbai Indians also won the most tosses
 
+## Charts
+![Top 10 Winning Teams](chart1.png)
+![Player of the Match](chart2.png)
+
 ## How to Run
 1. Clone this repository
 2. Open ipl_analysis.ipynb in Jupyter or Google Colab
@@ -37,3 +41,7 @@ This project explores team performance, city-wise hosting stats, season trends a
 - LinkedIn: www.linkedin.com/in/mdmuzammil1208
 
 ## Project Structure
+IPL-Data-Analysis/
+├── ipl_analysis.ipynb    → Main analysis notebook
+├── ipl-matches.csv       → Dataset
+└── README.md             → Project description
